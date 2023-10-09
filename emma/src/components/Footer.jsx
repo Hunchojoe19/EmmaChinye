@@ -59,7 +59,7 @@ const Footer = () => {
             </Link>
           </div>
           <div className="flex flex-col space-y-3 text-white">
-            <a href="#" className="hover:text-brightRed">
+            {/* <a href="#" className="hover:text-brightRed">
               Careers
             </a>
             <a href="#" className="hover:text-brightRed">
@@ -67,7 +67,7 @@ const Footer = () => {
             </a>
             <a href="#" className="hover:text-brightRed">
               Privacy Policy
-            </a>
+            </a> */}
           </div>
         </div>
         <div className="flex flex-col justify-between">
