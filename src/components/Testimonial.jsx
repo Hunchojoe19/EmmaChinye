@@ -32,12 +32,12 @@ const Testimonial = () => {
   return (
     <section id="services">
       <div
-        className="container flex flex-col-reverse md:flex-col items-center p-6 mx-auto mt-20 space-y-0 md: space-y-0 "
+        className="container flex flex-col-reverse md:flex-col items-center p-6 mx-auto mt-20 space-y-0 md:space-y-0 "
         data-aos="zoom-out"
         data-aos-easing="ease-in-sine"
         data-aos-duration="1000"
       >
-        <div className="flex flex-col mb-32 space-y-12 w-1/2 mt-6 lg:w-full">
+        <div className="flex flex-col mb-32 space-y-12 w-1/2 mt-6">
           <h1 className="w-full text-4xl text-center font-bold md:text-5xl md:text-left lg:text-center">
             Our Services
           </h1>
@@ -59,6 +59,7 @@ const Testimonial = () => {
             initial="hidden"
             animate="visible"
             whileHover="hover"
+            className="w-full h-full"
           />
         </div>
       </div>

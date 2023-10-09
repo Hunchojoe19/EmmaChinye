@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
 .hamburger {
   width: 24px;
   height: 24px;
