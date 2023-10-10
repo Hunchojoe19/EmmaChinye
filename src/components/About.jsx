@@ -13,7 +13,7 @@ const About = () => {
           <h2 className="text-4xl text-center max-w-md mb-10 font-bold md:text-left lg:mt-10">
             What Makes Us Different?
           </h2>
-          <p className="max-w-sm text-center text-darkGrayishBlue md:text-left">
+          <p className="max-w-sm text-center text-black md:text-left">
             We work side-by-side with business owners to help them achieve their
             financial goals by providing business consulting, income tax and
             Advisory services and succession planning.
@@ -35,7 +35,7 @@ const About = () => {
               <h3 className="hidden mb-4 text-lg font-bold md:block">
                 Our Core Values
               </h3>
-              <p className="text-darkGrayishBlue">
+              <p className="text-black">
                 Transparency, Commitment, Expertise, Honesty, Quality, and
                 Trust.
               </p>
@@ -56,7 +56,7 @@ const About = () => {
               <h3 className="hidden mb-4 text-lg font-bold md:block">
                 Our Mission
               </h3>
-              <p className="text-darkGrayishBlue">
+              <p className="text-black">
                 To empower People and Businesses alike through the provision of
                 optimally tailored solutions for their business excellence
                 needs.
@@ -78,7 +78,7 @@ const About = () => {
               <h3 className="hidden mb-4 text-lg font-bold md:block">
                 Our Vision
               </h3>
-              <p className="text-darkGrayishBlue">
+              <p className="text-black">
                 To become one of the most trusted Business consultancy
                 Enterprises in Nigeria specifically and the West Africa Region
                 potentially.
