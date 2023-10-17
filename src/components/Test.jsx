@@ -18,13 +18,15 @@ const Test = () => {
             data-aos-duration="1000"
           >
             {/* <img src={avatarAnisha} className="w-16 -mt-14" /> */}
-            <h5 className="text-lg font-bold">Samson Adesoba</h5>
+            <h5 className="text-lg font-bold">
+              KAIZEN GLOBAL ENGINEERING SOLUTIONS LTD
+            </h5>
 
             <p className="text-md text-darkGrayishBlue">
-              Working with Micky is a pleasure. We are impressed by the way how
-              their teamwork. It’s professional, at a good pace with great
-              communication about our business needs. They were prepared
-              extremely well to work with our company.
+              "Working with Fastnet Capital Ltd is a pleasure. We are impressed
+              by the way how their teamwork. It’s professional, at a good pace
+              with great communication about our business needs. They were
+              prepared extremely well to work with our company."
             </p>
           </div>
           <div
@@ -34,7 +36,7 @@ const Test = () => {
             data-aos-duration="2000"
           >
             {/* <img src={avatarRichard} className="w-16 -mt-14" /> */}
-            <h5 className="text-lg font-bold">Stephen Ezeruonye</h5>
+            <h5 className="text-lg font-bold">NETWORK OIL & GAS LTD</h5>
 
             <p className="text-md text-darkGrayishBlue">
               "This organization has completely changed my outlook on how I
@@ -50,7 +52,7 @@ const Test = () => {
             data-aos-duration="3000"
           >
             {/* <img src={avatarAli} className="w-16 -mt-14" /> */}
-            <h5 className="text-lg font-bold">Ezeigbo Andy</h5>
+            <h5 className="text-lg font-bold">FASTNET CAPITAL LTD</h5>
 
             <p className="text-sm text-darkGrayishBlue">
               "Looking back over the years, I must commend how effective our
